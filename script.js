@@ -157,4 +157,4 @@ final = string.join("")
 return final
 }
 
-console.log(cutString("Buongiorno"))
+console.log(cutString("Buongiorno")) // Stamperà "uongiorn"
